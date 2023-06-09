@@ -1,1 +1,1 @@
-# otus_data_base_course
+<image src="/source/categories.png" alt="Выгрузка таблиц из dataGrid">
