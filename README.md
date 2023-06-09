@@ -13,4 +13,4 @@
 
 ## Ниже реализация апи для работы с данными таблицами
 
-<image src="/source/api.jpg.png" alt="restApi для работы с таблицами">
+<image src="/source/api.jpg" alt="restApi для работы с таблицами">
